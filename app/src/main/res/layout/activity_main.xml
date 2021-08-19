@@ -170,8 +170,7 @@
                 <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/rv_popularMovies"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    tools:listitem="@tools:sample/avatars"/>
+                    android:layout_height="wrap_content"/>
 
             </LinearLayout>
 
