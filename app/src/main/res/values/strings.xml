@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MovieHouse</string>
+    <string name="home_hello">Hello, </string>
+    <string name="home_user_name">User!</string>
+    <string name="input_search_movie">Search your movie</string>
+    <string name="genre">Genre</string>
+    <string name="action">Action</string>
+    <string name="comedy">Comedy</string>
+    <string name="horror">Horror</string>
+    <string name="fiction">Fiction</string>
+    <string name="popular">Popular</string>
+    <string name="new_release">New Release</string>
 </resources>

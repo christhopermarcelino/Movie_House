@@ -8,4 +8,5 @@
     <color name="purple_200">#445282</color>
     <color name="cyan">#4AD0EE</color>
     <color name="light">#FDFEFE</color>
+    <color name="light_hint">#99FDFEFE</color>
 </resources>
